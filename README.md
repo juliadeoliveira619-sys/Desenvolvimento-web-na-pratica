@@ -1,10 +1,16 @@
 # Desenvolvimento-web-na-pratica
 materiais e ferramentas úteis para desenvolvimento web
+
 Aprendizado e Fundamentos
+
 MDN Web Docs- Documentação oficial e completa de HTML,CSS e JavaScript.
+
 W3Schools- Tutoriais interativos e fáceis de entender.
+
 FreeCodeCamp- Cursos grstuitos e desafio com  certificados.
+
 DevDocs.io- Central com documentações de várias linguagens e frameworks.
+
 HTML Dog - Guias ràpidos e práticos de HTML,CSS e JavaScript.
 ---
 Desevolvimento web na prática 
